@@ -20,7 +20,7 @@
 
 #define PAUSE_AT_EXIT 0
 
-#define MAXNUMBEROFSEQS 64
+#define MAXNUMBEROFSEQS 185
 #define DEBUG_FILENAME "debug.txt"
 #define POSITIONS_FILENAME "-positions.txt"
 #define IMAGEMAP_FILENAME "-imagemap.txt"
